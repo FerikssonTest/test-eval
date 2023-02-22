@@ -1,0 +1,12 @@
+[submodule "mit-eval-module-php"]
+	path = mit-eval-module-php
+	url = git@github.com:Macher-IT/mit-eval-module-php.git
+	branch = junior
+[submodule "mit-eval-module-sql"]
+	path = mit-eval-module-sql
+	url = git@github.com:Macher-IT/mit-eval-module-sql.git
+	branch = junior
+[submodule "mit-eval-module-js"]
+	path = mit-eval-module-js
+	url = git@github.com:Macher-IT/mit-eval-module-js.git
+	branch = junior
